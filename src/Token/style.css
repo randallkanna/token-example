@@ -1,0 +1,17 @@
+.link-style__token_name a {
+  color: gray !important;
+}
+
+.link-style__token_name a:hover {
+  color: black !important;
+}
+
+.card-body {
+  width: 400px !important;
+  min-height: 100px !important;
+  max-width: 240px !important;
+}
+
+.card {
+  margin: 20px;
+}
